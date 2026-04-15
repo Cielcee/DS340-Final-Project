@@ -6,4 +6,4 @@ Few-shot examples with context window inserted in prompt:
 
 Few-shot examples with full context window iteration update:
 
-<img width="485" height="210" alt="image" src="https://github.com/user-attachments/assets/f1f7bac8-0902-414c-a966-6b7132461b00" />
+
